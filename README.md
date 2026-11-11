@@ -38,3 +38,8 @@ O objetivo desta UC é transitar da teoria à prática no universo do **UI/UX De
 * **Design & Prototipagem:** Figma, UX Research, Design Thinking.
 * **Documentação & Gestão:** Google Forms, Google Workspace, Markdown.
 * **Controlo de Versão:** Git & GitHub.
+
+### 📱 Pré-visualização da Atividade 3 (Prototipagem no Figma)
+Abaixo encontra-se a pré-visualização das telas desenvolvidas para o sistema desktop da pizzaria do Sr. Manoel:
+
+![Protótipo da Atividade 3](Pizzaria.png)
